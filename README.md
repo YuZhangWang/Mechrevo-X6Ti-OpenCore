@@ -22,7 +22,7 @@ int main()
 | Chipset | Intel HM170 |
 | CPU          | Intel i7-6700HQ  | 
 | GPU | Nvidia Geforce GTX 965m & Intel HD Graphics 530                             |
-| Memory       | 8 GB 2133 Mhz DDR4 from Sumsung          | 
+| Memory       | 2 * 8 GB 2133 Mhz DDR4 from Sumsung          | 
 | WinSSD      | SAMSUNG MZNLN256HCHP-000L7                           |
 | MacSSD       | Phison SM280128GPMC15B-S10C2               |
 |    Hard disk    |    TOSHIBA MQ01ABD100 |

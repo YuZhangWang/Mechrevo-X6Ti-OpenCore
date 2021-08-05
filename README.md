@@ -44,7 +44,7 @@ int main()
 - [HeliPort.dmg](https://github.com/YuZhangWang/Mechrevo-X6Ti-OpenCore/blob/master/HeliPort.dmg)为英特尔网卡开启网络所需文件
 
 ## 安装Catania步骤
-1. 先用Catalina的引导安装Catalina10.15.7  
+1. 使用Catalina的引导安装Catalina10.15.7  
 2. 进系统之后,安装HeliPort,wifi就可以连接了
  
 ## 安装BigSur步骤  
